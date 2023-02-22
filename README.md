@@ -6,3 +6,8 @@ In addition to the 98 characters, the Ordinals team has created 2 special pieces
 Shinjikēto is about creating a community of individuals who are passionate about digital artifacts, nfts, art, ordinals, blockchains and Bitcoin. It's about bringing people together who appreciate the beauty and significance of these things, and sharing that appreciation with others.
 
 So why not join the Shinjikēto revolution today and be part of something truly unique and exciting? Get ready to experience the art and culture of anime like never before, as you immerse yourself in the world of Shinjikēto.
+
+Official Site:  https://ordinals.computer
+Discord:  https://discord.gg/JFp7FydF8C
+Twitter:  https://twitter.com/ordcomputers
+Github: https://github.com/ordinalscomputer/Shinjik-to
