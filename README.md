@@ -8,6 +8,9 @@ Shinjikēto is about creating a community of individuals who are passionate abou
 So why not join the Shinjikēto revolution today and be part of something truly unique and exciting? Get ready to experience the art and culture of anime like never before, as you immerse yourself in the world of Shinjikēto.
 
 Official Site:  https://ordinals.computer
+
 Discord:  https://discord.gg/JFp7FydF8C
+
 Twitter:  https://twitter.com/ordcomputers
+
 Github: https://github.com/ordinalscomputer/Shinjik-to
