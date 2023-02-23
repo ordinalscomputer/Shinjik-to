@@ -11,6 +11,6 @@ Official Site:  https://ordinals.computer
 
 Discord:  https://discord.gg/JFp7FydF8C
 
-Twitter:  https://twitter.com/ordcomputers
+Twitter:  https://twitter.com/ordcomputer
 
 Github: https://github.com/ordinalscomputer/Shinjik-to
